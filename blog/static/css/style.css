@@ -1,0 +1,22 @@
+h1, h2 {
+  font-family: Montserrat;
+  text-transform: uppercase;
+}
+
+h1 a, h2 a {
+  text-decoration: none;
+  color: #1F1F1F;
+}
+
+p {
+  font-family: "Courier New";
+  color: #1F1F1F;
+}
+
+.published_date {
+  color: DB9B8F;
+}
+
+body {
+  background-color: #F2F2F2;
+}
